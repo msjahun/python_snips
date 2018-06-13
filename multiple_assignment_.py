@@ -12,5 +12,5 @@ if __name__== "__main__":
     a, b = multiple_return()
     print(a)
     print(b)
-    #print(eval(input()))
+    print(eval(input()))
     print(range(49))
